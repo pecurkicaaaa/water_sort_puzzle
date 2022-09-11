@@ -1,0 +1,9 @@
+﻿  presipanja.c
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(36,64): warning C4047: '=': 'cvor **' differs in levels of indirection from 'cvor *'
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(66,17): warning C4098: 'izbaci': 'void' function returning a value
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(234,99): warning C4047: '=': 'cvor **' differs in levels of indirection from 'cvor *'
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(348,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(364,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(318,18): warning C4101: 'seed': unreferenced local variable
+C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\bocice\presipanja.c(320,9): warning C4101: 'niz': unreferenced local variable
+  bocice.vcxproj -> C:\Users\milic\OneDrive\Documents\ASP1_domaci\domaci_2\bocice\x64\Debug\bocice.exe
